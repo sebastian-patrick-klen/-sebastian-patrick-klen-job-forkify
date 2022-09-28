@@ -1,4 +1,6 @@
-# forkify Project
+# Forkify Project
 
-Recipe application with custom recipe uploads.
-Site deploied in this url: https://job-forkify.netlify.app/
+---
+
+**Forkify** je aplikace pro vyhledávání receptů s vlastním nahráváním receptů.
+Aplikaci naleznete na této **[url adrese](https://job-forkify.netlify.app/)**.
